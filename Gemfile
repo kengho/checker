@@ -45,5 +45,4 @@ group :development do
 end
 
 gem "net-ping"
-gem "thin"
 gem "dotenv-rails"
