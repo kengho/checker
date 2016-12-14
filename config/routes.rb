@@ -4,4 +4,6 @@ Rails.application.routes.draw do
       get "check", to: "checker#check"
     end
   end
+
+  root "api/v1/checker#check"
 end
