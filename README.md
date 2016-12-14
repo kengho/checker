@@ -6,7 +6,7 @@ Provides API for checking ViPNet™ nodes' availability. May be used with with [
 
 # Installing
 
-I prefer [this way using rvm + passenger + nginx](https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/ownserver/nginx/oss/install_language_runtime.html/).
+[rvm + passenger + nginx](https://www.phusionpassenger.com/library/walkthroughs/deploy/ruby/ownserver/nginx/oss/install_language_runtime.html/).
 
 ## License
 
